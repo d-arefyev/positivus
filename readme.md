@@ -6,5 +6,5 @@ Project created independently using a YouTube [masterclass](https://www.youtube.
 
 ## Skills
 
-• HTML: Structuring web pages, semantic markup, forms.
-• Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.
+• HTML: Structuring web pages, semantic markup, forms. 
+• Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.  
