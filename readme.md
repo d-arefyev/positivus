@@ -7,4 +7,4 @@ Project created independently using a YouTube [masterclass](https://www.youtube.
 ## Skills
 
 - HTML: Structuring web pages, semantic markup, forms.
-- SCSS: Responsive design, Flexbox, grid systems, animations, and transitions.
+- Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.
